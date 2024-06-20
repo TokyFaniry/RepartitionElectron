@@ -1,0 +1,14 @@
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.AssemblyInfoInputs.cache
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.AssemblyInfo.cs
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.csproj.CoreCompileInputs.cache
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\bin\Debug\net8.0\OrbitaleAtomique.exe
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\bin\Debug\net8.0\OrbitaleAtomique.deps.json
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\bin\Debug\net8.0\OrbitaleAtomique.runtimeconfig.json
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\bin\Debug\net8.0\OrbitaleAtomique.dll
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\bin\Debug\net8.0\OrbitaleAtomique.pdb
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.dll
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\refint\OrbitaleAtomique.dll
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.pdb
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.genruntimeconfig.cache
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\ref\OrbitaleAtomique.dll

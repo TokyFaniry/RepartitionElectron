@@ -63,26 +63,33 @@ namespace OrbitaleAtomique
             int nb = this.NombreQuantiquePrincipale;
             int n = 1;
             int l = 0;
-            int n1, l1;
+            int n1, l1,l2,l3;
             n1 = 0;
             l1 = 0;
+            l2 = 0;
+            l3 = 0;
             while (nb > 0)
             {
                 for (n = 1; nb > 0; n++)
-                {
-                    for (l = 0; l <= n-1; l++)
-                    {
+                { 
+                    if (n > 3)
+                     {
+                        l2=1;
+                     }
+                    for (l = l2; l <= n-1; l++)
+                    {   
                         for (n1 = n+1; n1 <= n+1; n1++)
-                        {
-                            for (l1 = 0; l1 < n1-1; l1++)
+                        {    
+                            for (l1=0; l1 < n1-1; l1++)
                             {
-                                if ( n1 + l1<n + l)
+                                if ( n1 + l1 < n + l)
                                 {
                                     RempliserCouche(ref nb, n1, l1);
                                 }
-                                if ( n + l<l1 + n1 )
+                                if ( n + l < l1 + n1 )
                                 {
                                     break;
+
                                 }
                                 if(l1+ n1 == n + l)
                                 {
@@ -93,6 +100,7 @@ namespace OrbitaleAtomique
                                 }
                             }
                         }
+
                         RempliserCouche(ref nb, n, l);
                     }
                 }

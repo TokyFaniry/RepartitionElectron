@@ -28,6 +28,18 @@ internal class Program()
             //Sb.AfficherSousCouche();
             Cr.RepartitionerElectrons();
 
+            Atome Fe = new Atome(26);
+            Console.WriteLine();
+            Console.Write("Fe(z=26): ");
+            //Sb.AfficherSousCouche();
+            Fe.RepartitionerElectrons();
+
+            Atome Zinc = new Atome(56);
+            Console.WriteLine();
+            Console.Write("Zn(z=56):");
+        Zinc.RepartitionerElectrons();           
+        
+
     }
 }
 

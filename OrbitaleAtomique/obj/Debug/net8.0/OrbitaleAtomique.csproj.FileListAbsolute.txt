@@ -12,3 +12,4 @@ C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\ne
 C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.pdb
 C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.genruntimeconfig.cache
 C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\ref\OrbitaleAtomique.dll
+C:\Users\Volahanitra\source\repos\OrbitaleAtomique\OrbitaleAtomique\obj\Debug\net8.0\OrbitaleAtomique.sourcelink.json
